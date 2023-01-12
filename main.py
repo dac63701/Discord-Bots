@@ -3,7 +3,7 @@ from discord.ui import Select, View
 from discord.ext import commands
 import random
 
-TOKEN = 'MTA2MTc1MjcwNTgyOTMxNDU2MA.Glgccf._723FXy-n9nu1XpUDDGbAhz63ru0CaDJLlRtBg'
+TOKEN = ''
 
 botChannel = 'bot-test'
 
